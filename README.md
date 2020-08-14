@@ -9,7 +9,7 @@
 
 * 👨🏻‍🎓 Analysis and systems development student @ [UCSAL](https://www.ucsal.br/)
 * 🚧 Front-end Developer
-* 🌱 Improving my Front-end skills @ [Alura](https://www.alura.com.br/) & [RocketSeat](https://rocketseat.com.br/)
+* 🌱 Improving my Front-end skills @ [Alura](https://www.alura.com.br/) [RocketSeat](https://rocketseat.com.br/) & [Origamid](https://www.origamid.com/)
 * 📚 Love to learn new technologies
 * 👯 Easy to communicate and work with
   
@@ -26,6 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=Heroku)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
 ![NPM](https://img.shields.io/badge/npm-yellowgreen?style=for-the-badge&logo=npm)
+
 
 
 
