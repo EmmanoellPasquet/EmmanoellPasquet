@@ -40,5 +40,5 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanoellPasquet&theme=tokyonight&show_icons=true"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmmanoellPasquet&theme=tokyonight&show_icons=true"></img>
 </p>
